@@ -10,10 +10,12 @@ List of tools used/installed:
 
 
 
- References:
+ Resources:
 
 MDN Element Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-
+Free images: https://www.unsplash.com
+CSS Information: https://www.css-tricks.com
+Color Picker: https://www.paletton.com
 
 
 TODO:

@@ -6,3 +6,4 @@ List of tools used/installed:
 
  - Google Chrome
  - Sublime Text
+ - Visual Studio Code

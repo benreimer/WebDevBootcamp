@@ -15,6 +15,7 @@ List of tools used/installed:
 MDN Element Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 Free images: https://www.unsplash.com <br>
 CSS Information: https://www.css-tricks.com <br>
+CSS Examples:  https://csszengarden.com <br>
 Color Picker: https://www.paletton.com <br>
 
 

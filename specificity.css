@@ -1,3 +1,16 @@
-ul {
+body{
     color: orange;
+}
+
+ul {
+    color: blue;
+}
+
+.highlight {
+    color: green;
+}
+
+
+#special {
+    color: rgba(200,100,50,.6)
 }
